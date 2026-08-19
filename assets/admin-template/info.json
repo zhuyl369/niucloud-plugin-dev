@@ -1,0 +1,11 @@
+{
+  "title": "插件中文名称",
+  "desc": "插件功能描述",
+  "key": "插件标识",
+  "version": "1.0.0",
+  "author": "开发者名称",
+  "type": "addon",
+  "support_app": "",
+  "compile": [],
+  "support_version": "1.1.7"
+}
