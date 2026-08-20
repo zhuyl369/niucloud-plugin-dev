@@ -4,7 +4,7 @@ NIUCLOUD-ADMIN SaaS 插件开发 Skill —— 用于创建并生成 niucloud adm
 
 ## 📌 功能简介
 
-本 Skill 为 WorkBuddy 提供 **NIUCLOUD-ADMIN SaaS 框架插件开发** 的完整工作流指导，帮助开发者：
+本 Skill 为 Codex 提供 **NIUCLOUD-ADMIN SaaS 框架插件开发** 的完整工作流指导，帮助开发者：
 
 - **创建插件**：生成符合框架规范的插件基础结构（`info.json`、`Addon.php`、`install.sql` 等）
 - **后端开发**：Model 层、Service 层、Controller 层、Route 路由配置
